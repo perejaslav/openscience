@@ -729,7 +729,7 @@ html[data-color-scheme="dark"] .thesis-agent-orbit {
   color: var(--color-text);
 }
 .thesis-md h1 {
-  font-size: 18px;
+  font-size: 16px;
 }
 .thesis-md h2 {
   font-size: 16px;
@@ -790,7 +790,7 @@ html[data-color-scheme="dark"] .thesis-agent-orbit {
 
 .thesis-md code {
   font-family: var(--font-code);
-  font-size: 11.5px;
+  font-size: 11px;
   background: var(--color-bg-subtle);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
@@ -802,7 +802,7 @@ html[data-color-scheme="dark"] .thesis-agent-orbit {
 .thesis-md pre,
 .thesis-md pre.thesis-code-block {
   font-family: var(--font-code);
-  font-size: 11.5px;
+  font-size: 11px;
   background: var(--agent-code-bg);
   color: var(--agent-code-fg);
   border: 1px solid var(--agent-code-border);
